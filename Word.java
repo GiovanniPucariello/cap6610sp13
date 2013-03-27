@@ -1,8 +1,7 @@
 /*
- * The Word class represents a word in the dictionary with the part of speech
- * and connotation.
+ * This class represents a word in the dictionary with the part of speech and
+ * connotation.
  */
-
 public class Word
 {
     /*
@@ -12,6 +11,7 @@ public class Word
      * bit 6 : noun                 1 = positive
      * bit 5 : adjective            2 = negative
      * bit 4 : adverb               3 = neutral
+     * 
      * bit 3 : pronoun
      * bit 2 : preposition
      * bit 1 : conjunction
@@ -23,7 +23,8 @@ public class Word
     byte connotation;
     
     /* 
-     * This constructor assigns the member variables to their respective arguments.
+     * This constructor assigns the member variables to their respective
+     * arguments.
      */
     Word(String word, byte partOfSpeech, byte connotation)
     {

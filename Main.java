@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.Scanner;
+import java.util.Vector;
 
 public class Main
 {
@@ -10,10 +11,11 @@ public class Main
     
     public static void main(String[] args)
     {
-        buildDictionary("wiktionaryAbridged.txt");
+        buildDictionary("wiktionary.txt");
+        System.out.println("Done!");
         
-        // TODO Create wiktionaryAbridged.txt file.
-        // TODO Test buildDictionary method.
+        // TODO Design parse sentence method to extract the feature vector.
+        // TODO Come up with training and testing set.
         
     }
     
@@ -66,6 +68,8 @@ public class Main
                     
                     dictionary.put(theWord, newDictionaryEntry);
                 }
+                
+                line = dictionaryFile.readLine();
             }
             
             // Close file.
