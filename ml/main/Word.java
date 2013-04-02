@@ -1,3 +1,5 @@
+package ml.main;
+
 /*
  * This class represents a word in the dictionary with the part of speech and
  * connotation.
@@ -21,6 +23,7 @@ public class Word
     String word;
     byte partOfSpeech;
     byte connotation;
+    byte count; // How many occurrences in the sentence?
     
     /* 
      * This constructor assigns the member variables to their respective
@@ -31,6 +34,7 @@ public class Word
         this.word = word;
         this.partOfSpeech = partOfSpeech;
         this.connotation = connotation;
+        count = 0;
     }
     
     /*
