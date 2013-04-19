@@ -71,13 +71,13 @@ public class Main
     // This method places the 7 universal emotions on the unit circle.
     private static void setClusterPoints(HashMap<String, Emotion> hm)
     {
-        hm.put("neutral", new Emotion("neutral", 0, 0, 0.2));
-        hm.put("happiness", new Emotion("happiness", Math.cos(0 * Math.PI / 3), Math.sin(0 * Math.PI / 3), 0.2));
-        hm.put("surprise", new Emotion("surprise", Math.cos(1 * Math.PI / 3), Math.sin(1 * Math.PI / 3), 0.2));
-        hm.put("fear", new Emotion("fear", Math.cos(2 * Math.PI / 3), Math.sin(2 * Math.PI / 3), 0.2));
-        hm.put("sadness", new Emotion("sadness", Math.cos(3 * Math.PI / 3), Math.sin(3 * Math.PI / 3), 0.2));
-        hm.put("disgust", new Emotion("disgust", Math.cos(4 * Math.PI / 3), Math.sin(4 * Math.PI / 3), 0.2));
-        hm.put("anger", new Emotion("anger", Math.cos(5 * Math.PI / 3), Math.sin(5 * Math.PI / 3), 0.2));
+        hm.put("neutral", new Emotion("neutral", 0, 0));
+        hm.put("happiness", new Emotion("happiness", Math.cos(0 * Math.PI / 3), Math.sin(0 * Math.PI / 3)));
+        hm.put("surprise", new Emotion("surprise", Math.cos(1 * Math.PI / 3), Math.sin(1 * Math.PI / 3)));
+        hm.put("fear", new Emotion("fear", Math.cos(2 * Math.PI / 3), Math.sin(2 * Math.PI / 3)));
+        hm.put("sadness", new Emotion("sadness", Math.cos(3 * Math.PI / 3), Math.sin(3 * Math.PI / 3)));
+        hm.put("disgust", new Emotion("disgust", Math.cos(4 * Math.PI / 3), Math.sin(4 * Math.PI / 3)));
+        hm.put("anger", new Emotion("anger", Math.cos(5 * Math.PI / 3), Math.sin(5 * Math.PI / 3)));
     }
     
     // This method trains the algorithm on the TrainingSet.txt file.

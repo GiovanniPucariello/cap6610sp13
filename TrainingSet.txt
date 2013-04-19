@@ -21,3 +21,164 @@ Here's to him then .	neutral
 And to Miranda .	neutral
 Nice job you genetically perfect Cerberus cheerleader bosh'tet . Keehal se'lai .	happiness
 ----------------------------------------------------------------------------------------------------	neutral
+Please send this to an animal shelter for proper disposal as a warship is not an appropriate ... Oh that is not okay !	anger
+He messed with my hamster guys . Now it's personal .	anger
+Guys ? Were you gonna say something or ... No no I get it . Hard to even find the words .	surprise
+Should we check on my fish ? 'Cause if he's getting rid of all the pets ...	fear
+We should probably deal with him first huh ?	neutral
+All right . Sit tight little guy . Anybody gives you trouble ... go for the eyes .	neutral
+----------------------------------------------------------------------------------------------------	neutral
+That went ... well .	neutral
+He said I should go . Do I sound like that ?	surprise
+I think it was one of the first things you ever said to me .	neutral
+May I suggest we concern ourselves with this iridium vault inside which we have been permanently sealed ?	fear
+I'm more confident that he is . More in control . With me it's more like That's all for now .	happiness
+You're the commander . You end the conversation on your own terms .	neutral
+At most we have an hour's worth of air remaining .	fear
+Or sometimes I'll talk to you later . Because you know what ? I never do . Leave them wanting more .	neutral
+Shephard I would advise greater concern about our situation .	fear
+Hm ? Oh . Glyph you still out there ?	neutral
+Yes Commander .	neutral
+Unlock this damned thing and go find the others . No one steals my ship . Not even me .	anger
+----------------------------------------------------------------------------------------------------	neutral
+Well what about Shephard ? Earthborn ... but no record of his family .	neutral
+Doesn't have one . He was raised on the streets . Learned to look out for himself .	sadness
+He saw his whole unit die on Akuze . He could have some serious emotional scars .	sadness
+Every soldier has scars . Shephard's a survivor .	sadness
+Is that the kind of person we want protecting the galaxy ?	neutral
+That's the only kind of person who can protect the galaxy .	neutral
+I'll make the call .	neutral
+----------------------------------------------------------------------------------------------------	neutral
+I came a long way to talk to you .	neutral
+One moment . Prayers for the wicked must not be forsaken .	sadness
+Do you really think she deserves it ?	disgust
+Not for her . For me .	sadness
+The measure of an individual can be difficult to discern by actions alone . Take you for instance . All this destruction ... chaos .	neutral
+I was curious to see how far you'd go to find me .	neutral
+Well ... here I am .	neutral
+How did you know I was coming at all ?	neutral
+I didn't . Not until you marched in the front door and started shooting .	neutral
+Nassana had become paranoid . You saw the strength of her guard force . She believed one of her sisters would kill her .	neutral
+You were a valuable distraction .	neutral
+Let's cut to the chase . I need you for a mission .	neutral
+You're familiar with the Collectors?	neutral
+By reputation .	neutral
+They're abducting entire human colonies . Freedom's Progress was their handiwork .	anger
+I see .	neutral
+We're going after them .	neutral
+Attacking the Collectors would require passing through the Omega 4 relay . No ship has ever returned from doing so .	surprise
+They told me it was impossible to get to Ilos too .	neutral
+A fair point . You've built a career on performing the impossible .	neutral
+This was to be my last job .	sadness
+I'm dying .	sadness
+Low survival odds don't concern me . The abduction of your colonists does .	neutral
+I take it that means you're on the team ?	happiness
+I will work for you Shephard . No charge .	neutral
+----------------------------------------------------------------------------------------------------	neutral
+I've got the name of the ship . Your fugitive left here two days ago on the AML Demeter .	neutral
+Shephard you impress me . You fulfilled your part of the bargain and I will fulfill mine .	surprise
+I am ready to leave immediately if that will satisfy your superiors Detective ?	neutral
+You're free to go Justicar . It has been an honor having you in my station . And it's nice you didn't kill me too .	happiness
+The Normandy is docked near the main trading floor . I'll see you aboard .	neutral
+I must be sworn to your service so that I am never forced to choose between your orders and the Code .	neutral
+By the Code I will serve you Shephard . Your choices are my choices your morals are my morals . Your wishes are my code .	neutral
+I never thought I'd see a justicar swear an oath like that .	surprise
+If you make me do anything extremely dishonorable I may need to kill you when I am released from my oath .	anger
+I can see that this is a very important act Samara . Thank you .	happiness
+Truly the life of a justicar can get lonely . I admit I am looking forward to serving with a company of honorable heroes .	happiness
+Shall we return to your ship ?	neutral
+----------------------------------------------------------------------------------------------------	neutral
+Yes Shephard ?	neutral
+How's the new body working out ?	neutral
+It is interesting . The crew are approaching this platform to speak to me even though they can do so anywhere in the ship .	neutral
+It's as if they wish to treat me as part of the crew . I am not but this changes my perspective .	happiness
+I like it .	happiness
+I didn't realize you had preferences .	neutral
+I do not precisely enjoy something as you do but my programming contains priorities .	neutral
+Actions that fulfill those priorities creates positive feedback for me . I tell the organic crew that I like it . It is shorthand .	neutral
+Will all this new feedback be too distracting ?	neutral
+Do not worry Shephard . I only forget to recycle the Normandy's oxygen when I've discovered something truly interesting .	neutral
+That was a joke .	happiness
+----------------------------------------------------------------------------------------------------	neutral
+Come on .	neutral
+Here . Take her ...	neutral
+Shephard ...	sadness
+You gotta get out of here .	fear
+I can't stay behind .	sadness
+Don't argue with me Tali .	anger
+Don't leave me behind ...	sadness
+I need you to make it out of here alive Tali .	sadness
+Go back to Rannoch . Build yourself a home .	sadness
+I have a home .	sadness
+Come back to me .	sadness
+----------------------------------------------------------------------------------------------------	neutral
+Mordin ! Is the cure ready ?	fear
+Yes . Loaded for dispersal in two minutes . Procedure traumatic for Eve but not lethal . Maelon's research invaluable .	happiness
+She's okay ?	surprise
+Headed to safety now .	neutral
+Her survival fortunate . Will stabilize new government should Wrex get any ideas . Good match promising future for krogan .	happiness
+Damn !	surprise
+Control room at top of Shroud tower . Must take elevator up .	neutral
+You're going up there ?	surprise
+Yes . Readings at lab suggest temperature malfunction . Could affect cure viability . Need to adjust settings manually .	neutral
+It's too dangerous Mordin . We need to get out of here .	fear
+No . Temperature variance could destroy cure ! Time running out ! Have to go up .	fear
+Mordin ... you're not going up .	anger
+Not concerned for my safety . Concerned I might discover something ? Sabatoge ? But whose ? Ah .	neutral
+Why Shephard ? That desperate for salarian aid ? Or that afraid of krogan ?	sadness
+Every time we've talked about this before you've defended the genophage !	anger
+Hell I had to talk you into saving Maelon's data ! How can you change your mind now ?	anger
+I made a mistake !	anger
+I made a mistake ... focused on big picture . Big picture made of little pictures . Too many variables .	sadness
+Can't hide behind statistics . Can't ignor new data . My responsibility . Need to go . Running out of time .	anger
+Mordin walk away .	anger
+Can't do that Shephard .	sadness
+I don't have a choice here . Walk away or I will fire .	anger
+Not your decision . Not your work . Not your cure . Had to be me .	anger
+Someone else might have gotten it wrong !	anger
+No time to argue . Cure dispersal imminent . Must counteract sabotage . Stop me if you must .	sadness
+----------------------------------------------------------------------------------------------------	neutral
+Commander Jack and Miranda are in the middle of a ... disagreement . Can you head it off before they tear out a bulkhead ?	fear
+I'll deal with it .	neutral
+Take pictures .	happiness
+Touch me and I will smear the walls with you bitch !	anger
+Enough ! Stand down both of you !	anger
+The cheerleader won't admit what Cerberus did to me was wrong !	anger
+It wasn't Cerberus . Not really . But you were a mistake .	disgust
+Screw you ! You've got no idea what they put me through ! Maybe it's time I showed you !	anger
+Our mission is too important to let personal feelings get in the way .	neutral
+Fuck your feelings . I just want her dead .	anger
+You both know what we're up against . Save your anger for the Collectors .	neutral
+I can put aside my differences ... until the mission is over .	neutral
+Sure . I'll do my part . I'd hate to see her die before I get a chance to filet her myself .	disgust
+You two going to be okay ?	neutral
+It's a good thing you came by when you did .	happiness
+As long as she does her job we'll be fine . Thanks Shephard .	happiness
+----------------------------------------------------------------------------------------------------	neutral
+How are the casualties ?	sadness
+They haven't brought in any more wounded .	neutral
+That's something .	happiness
+How are you holding up Liara ?	neutral
+This is it isn't it ?	sadness
+Yeah . This is it .	neutral
+I don't know what to say .	neutral
+All those blue children will be disappointed I didn't have a speech .	sadness
+We'll make up a good story for them .	neutral
+I do have one thing for you Shephard . A gift . It'll only take a moment if you want it .	neutral
+What kind of gift ?	surprise
+Do you remember when I first joined my consciousness to yours ? I can show you some of my own memories .	neutral
+Asari exchange them sometimes with . With good friends ... or their bondmates .	neutral
+It can also be a way to say farewell .	sadness
+Show me .	neutral
+Close your eyes .	neutral
+Thank you . For everything .	happiness
+I love you . Now let's do what needs to be done .	happiness
+----------------------------------------------------------------------------------------------------	neutral
+Can you hear me out there ? I am trapped . I need help !	fear
+Are you -- Are you real ? Oh no don't be stupid Liara . Humans do not come here . You're hallucinating .	sadness
+And talking to yourself . Ha ! Uh Goddess . I'm going to die here .	fear
+We're here to save your sorry ass . So snap out of it .	anger
+You're rude for a hallucination . My subconscious must want to punish me for being this stupid .	surprise
+It doesn't matter what you think . I'm getting you out of there .	neutral
+You almost had me convinced there . I would not expect a hallucination to be defiant .	surprise
+Well I'll play along . As you can see I am trapped here . If you're as real as you claim find a way to get me out .	neutral

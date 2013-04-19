@@ -7,3 +7,129 @@ It's been a long journey and no one's coming out without scars . But it all come
 We win or lose it all in the next few minutes . Make me proud . Make yourselves proud .	happiness
 Well said . Let's go finish this .	happiness
 ----------------------------------------------------------------------------------------------------	neutral
+Main fusion plant offline . Activating emergency H-fuel cells .	neutral
+What the shit !	fear
+All right I'm at uh you .	neutral
+Connect the core to the Normandy's primary control module .	neutral
+Great . See this is where it starts and when We're all just organic batteries guess who they'll blame ?	fear
+This is all Joker's fault . What a tool he was . I have to spend all day computing pi because he plugged in the Overlord .	fear
+Ah . I have access to the defense systems . Thank you Mr. Moreau . Now you must reactivate the primary drive in engineering .	surprise
+Argh ! you want me to go crawling through the ducts again .	anger
+I enjoy the sight of humans on their knees ...	happiness
+That is a joke .	happiness
+Right .	anger
+----------------------------------------------------------------------------------------------------	neutral
+Wrex ?	surprise
+What are you doing here ?	surprise
+Ugh ... Escaping .	sadness
+Ever since we cured the genophage it's been nothing but work .	sadness
+Council been riding you ?	neutral
+Bah ! Not those pyjak shit-slingers . No it's the ...	disgust
+It's the females Shephard . Now that they're fertile again ...	neutral
+Ugh I haven't slept in ... I don't know how long .	sadness
+Can I get you two anything ?	neutral
+Two more drinks and another bag of ice .	neutral
+I would've thought you'd be enjoying the ... perks of krogan fertility .	surprise
+Enjoying it ?	surprise
+There's a line of females outside my dwelling right now ! Stretches on for as far as you can see .	neutral
+I had to sneak out my own bathroom window !	sadness
+Even then I was cornered by two more females on the ride back from Tuchanka .	neutral
+And it's just you ? They're not spreading the love around ?	surprise
+Sure but everyone wants their firstborn in generations to be strong and fit .	neutral
+I'm the leader of Clan Urdnot . I brought the end to the genophage .	happiness
+Everyone on Tuchanka wants a piece of me .	disgust
+And Bakara's no help at all . She encourages it !	anger
+I'm telling you Shephard . I'm in no shape to fight Reapers .	sadness
+Considering everything we've been through I can think of worse positions to be in .	neutral
+Trust me I've been in every position in the past few days .	disgust
+Here are your drinks ... and a bag of ice .	disgust
+And I thought Mordin's procedure was painful ...	surprise
+Ah well ...	sadness
+Shit Shephard . We sure have been through it haven't we ?	happiness
+Still going through it .	happiness
+True .	happiness
+Well here's to use ! And to going through it .	happiness
+I'll drink to that .	happiness
+Korbal !	happiness
+It means victory or death roughly .	neutral
+Ah but you can't die Wrex ...	happiness
+You've got a family now . A really ... big ... family .	happiness
+More ice !	sadness
+----------------------------------------------------------------------------------------------------	neutral
+Hannah Shephard here .	neutral
+Hi Mom .	neutral
+Oh honey . It's so good to hear your voice .	happiness
+This is a surprise . It's been a long time .	surprise
+It has . I just felt I needed to -- I think about you every day . I try not to worry .	sadness
+The other day I was remembering the bedtime stories we used to make up .	neutral
+You had your own ship and crew . The stories were always filled with adventure and danger .	neutral
+Oh yeah . Huh . Haven't thought about that in awhile .	neutral
+Me neither . You'd always swoop in to punish the bad guys to save the day .	happiness
+So ... there you are . Even when you were little you dreamed of the life you have .	neutral
+Is that the reason you wanted me to call ?	neutral
+No ... I just want you to know that I am proud of you honey . So proud .	happiness
+----------------------------------------------------------------------------------------------------	neutral
+Oh hello panties !	surprise
+Oh hey Shep .	surprise
+You're going through my drawers ?	surprise
+I go through everyone's drawers .	neutral
+Can't you just mingle and have fun like a normal person ?	anger
+Why would I want to do that ?	surprise
+By the way you have excellent taste in underwear .	happiness
+Glad you could make it Kasumi .	happiness
+Thanks . I'm having a really good time .	happiness
+By your very strange standards .	neutral
+Yep !	happiness
+Girlier than I was expecting . I kinda thought they'd have a cammo pattern .	surprise
+----------------------------------------------------------------------------------------------------	neutral
+Taylor ? Jacob ? No not Jacob .	surprise
+Why not me ? Would ten years of this look better to anyone else in the galaxy ?	anger
+You have to understand . This isn't me . The realities of command they change you . I wasn't ready for that .	sadness
+I made sure you were taught right . Before I left . I had hoped to leave it at that .	sadness
+I'm not unreasonable Captain . But ten years ? What happened ?	surprise
+Goddamnit why did you do this to your crew ?	anger
+There was resistance to the plan . Mutiny . We had to take a hard line to keep order . And things settled down . As the decay set in we made sure the crew were confortable .	neutral
+Some even seemed happier . Ignorance is bliss right ? And they were grateful for guidance like an instinct . Pure authority was ... easy . At first .	neutral
+Months in the effect lowered inhibitions . They got territorial . Rank protocol -- they couldn't understand . We had to establish dominance . After a while the perks seemed ... normal .	neutral
+That's it ? You created a harem and played king ? Ten years in a juvenile fantasy ?	disgust
+I can't point to where it all went wrong . But when the beacon was ready revealing what happened didn't seem like a good idea .	sadness
+What happened to the other officers ?	neutral
+Anders found his conscience a little late to step back . He had an accident . Things got ... tense . End of the day I was the one with the mechs .	sadness
+I got a little basic in setting examples but I was kind to my  people once things settled down . Seemed like I'd earned some peace .	neutral
+You fought over people like they were toys . Things .	disgust
+The stores from the ship couldn't last forever . You had to know this would end one day .	neutral
+Dining for one can really stretch things out . Besides I can think of a lot worse retirement plans than stripping down and joining the droolers .	neutral
+That was before the hunters of course . Dumb or not I'd feel it if they got their hands on me now . They want blood . I'd prefer to keep it .	neutral
+It's all about you . Everything .	disgust
+You didn't feel any responsibility to get out of here for the sake of family ?	surprise
+I gave him a good start . He was a smart kid and was better off not following me . We figured that out a long time before I took jobs in deep space .	neutral
+And after things escalated here it seemed best to just disappear off the galactic map .	neutral
+Until you needed someone to save your ass .	disgust
+----------------------------------------------------------------------------------------------------	neutral
+Commander Shephard .	neutral
+Illusive Man . I thought we'd be meeting face-to-face .	surprise
+A necessary precaution . Not unusual for people who know what you and I know .	neutral
+You might be the reason I'm still alive but that doesn't mean I trust you .	neutral
+You need to put your personal feelings aside .	neutral
+Humanity is up against the greatest threat of our brief existence .	anger
+The Reapers .	neutral
+Good to see your memory's still intact . How are you feeling ?	happiness
+Cut to the chase . What are the Reapers doing that made you decide to bring me back ?	neutral
+We're at war . No one wants to admit it but humanity is under attack .	neutral
+While you've been sleeping entire colonies have been disappearing . Human colonies .	anger
+We believe it's someone working for the Reapers . Just as Saren and the geth aided Sovereign .	neutral
+You've seen it yourself . You bested all of them . That's just one reason we chose you .	happiness
+If what you say is true ... if the Reapers are behind this ... I'd consider helping you .	neutral
+I'd be disappointed if you accepted any of this without seeing for yourself .	happiness
+I have a shuttle ready to take you to Freedom's Progress the latest colony to be abducted .	neutral
+Miranda and Jacob will brief you .	neutral
+Miranda killed Wilson in cold blood . Jacob's just a gun for hire . You expect me to trust them ?	disgust
+Wilson was one of my best agents . But he was a traitor .	sadness
+Miranda did exactly what I expected of her . And she saved your life in more ways than one .	happiness
+Jacob's a soldier one of the best . He's never fully trusted me but he's always been honest about it .	neutral
+You'll be just fine with them ... for now .	neutral
+Is this a volunteer job or am I being volunteered ?	anger
+You always have a choice Shephard . If you don't find the evidence we're both looking for we can part ways .	neutral
+But first go to Freedom's Progress .	neutral
+Find any clues you can . Who's abducting the colonies ? Do they have any connection to the Reapers ?	neutral
+I brought you back . It's up to you to do the rest .	neutral

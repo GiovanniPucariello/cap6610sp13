@@ -4,12 +4,12 @@ public class Emotion
     double x, y;
     double weight;
     
-    Emotion(String type, double x, double y, double weight)
+    Emotion(String type, double x, double y)
     {
         this.type = type;
         this.x = x;
         this.y = y;
-        this.weight = weight;
+        this.weight = 0.01;
     }
     
     void setWeight(double weight)
