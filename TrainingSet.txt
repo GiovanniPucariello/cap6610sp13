@@ -1,1 +1,23 @@
-sadness *frown* I work way too hard.
+Shephard . Wanna drink ? I'm toasting Miranda . I think .	happiness
+How are you getting drunk ?	surprise
+Very carefully . Turian Brandy triple filtered then introduced into the suit through an emergency induction port .	neutral
+That's a straw Tali .	neutral
+Emergency induction port . It's actually getting a little harder to get it into the slot . I think that means it's working ...	neutral
+She was so rude . What did Jack call her ? Cerberus cheerleader . With her perfect genes and that attitude and ...	disgust
+And still she got it done . She stopped her father .	surprise
+I didn't realize this would be so hard on you .	sadness
+I didn't like her . Keelah she was such a bitch . But I respected her . Sometimes that's better than liking .	disgust
+She did whatever it took to stop her father . She never gave into him . Never changed herself to please him .	sadness
+Ah .	neutral
+Don't Ah me ! You sound like a vorcha .	anger
+Seeing a bit of yourself in Miranda fighting her father ?	neutral
+I spent my life trying to live up to him then making up for his mistakes doing what he'd have wanted .	sadness
+It's never that easy .	neutral
+When do we get to stop reacting to our parents and start living for ourselves ?	sadness
+The answer to that one's at the bottom of that glass .	neutral
+I might need help with the induction straw . Port . You know .	neutral
+I'm having a drink with my boyfriend . My human boyfriend . Ha my father would have hated you !	happiness
+Here's to him then .	neutral
+And to Miranda .	neutral
+Nice job you genetically perfect Cerberus cheerleader bosh'tet . Keehal se'lai .	happiness
+----------------------------------------------------------------------------------------------------	neutral

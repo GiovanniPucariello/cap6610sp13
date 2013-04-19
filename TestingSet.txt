@@ -1,0 +1,9 @@
+I'm ready Commander .	neutral
+Ready .	neutral
+Anything to say before we do this ?	neutral
+We've lost some good people . They gave everything to get us here . It's up to use to make it mean something and do them justice .	sadness
+The Collectors the Reapers -- they aren't a threat to use . They're a threat to everything -- everyone . Those are the lives we're fighting for . That's the scale .	anger
+It's been a long journey and no one's coming out without scars . But it all comes down to this moment .	neutral
+We win or lose it all in the next few minutes . Make me proud . Make yourselves proud .	happiness
+Well said . Let's go finish this .	happiness
+----------------------------------------------------------------------------------------------------	neutral
